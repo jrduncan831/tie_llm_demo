@@ -1,0 +1,12 @@
+openai
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-sambanova
+langchain-ollama
+chromadb
+pypdf
+
+jupyter
+ipykernel
